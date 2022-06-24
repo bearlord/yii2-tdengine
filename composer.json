@@ -1,0 +1,17 @@
+{
+    "name": "bearlord/yii2-tdengine",
+    "description": "yii2-tdengine",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "bearlord",
+            "email": "565364226@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "yiisoft/yii2": "~2.0.6",
+    }
+}
